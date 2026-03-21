@@ -35,9 +35,10 @@ Existing within the impossible pause.  "
 [\[rysf13@github ~\]$ UNDER CONSTRUCTION](https://rysf13.github.io)
 
 #### MAIL
-- rysf13@qq.com [PRIMARY]
+- rysf13@ya.ru [PRIMARY]
+- rysf13@qq.com [SECONDARY - OFTEN USED ]
 - rysf13@tilde.club [BACKUP]
-- rysf13@proton.me [NOT PREFERRED]
+- rysf13@proton.me [ARCHIVE]
 
 #### RELAY STATIONS
 - [RELAY_01](https://tilde.club/~rysf13)
