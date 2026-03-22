@@ -32,7 +32,7 @@ Existing within the impossible pause.  "
 
 ### HOW TO REACH ME
 #### HOME
-[\[rysf13@github ~\]$ UNDER CONSTRUCTION](https://rysf13.github.io)
+[\[rysf13@github ~\]$](https://rysf13.github.io)
 
 #### MAIL
 - rysf13@ya.ru [PRIMARY]
