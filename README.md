@@ -45,7 +45,7 @@ Existing within the impossible pause.  "
 - [RELAY_02](https://tilde.green/~rysf13)
 
 ### Git City Leaderboard
-[<img src="https://www.thegitcity.com/dev/RYSF13/opengraph-image" width="75%"></img>](https://www.thegitcity.com/dev/RYSF13)
+[![RYSF13](https://www.thegitcity.com/dev/RYSF13/opengraph-image)](https://www.thegitcity.com/dev/RYSF13)
 
 </div>
 
